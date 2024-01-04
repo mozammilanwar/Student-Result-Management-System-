@@ -1,0 +1,2 @@
+
+"Led the development of a cutting-edge Student Result Management System, leveraging Java, Java Swing, and SQL. Engineered a seamless registration and storage solution for student data, enhancing efficiency in academic processes. Pioneered a user-friendly interface, allowing students to conveniently access their marks through the admin-uploaded application, promoting transparency and empowering academic success. #Java #JavaSwing #SQL #StudentManagement #Innovation"
